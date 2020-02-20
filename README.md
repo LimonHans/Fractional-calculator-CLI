@@ -9,4 +9,5 @@ For the much troubles I meet when solve my math homework with fraction, I determ
 ----
 
 This is the CLI version. Hope I can upload the Gui version.qwq
+
 这是命令栏版本，希望我能更新图形界面(多半不可能qwq)
